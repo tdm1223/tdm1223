@@ -4,4 +4,6 @@
 - 🌱 I’m currently learning `C++`
 - 📫 How to reach me: tdm1223@naver.com
 
+![github stats](https://github-readme-stats.vercel.app/api?username=tdm1223&show_icons=true&theme=radical&hide=contribs,prs,stars&count_private=true)
+
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tdm1223)](https://solved.ac/tdm1223)
