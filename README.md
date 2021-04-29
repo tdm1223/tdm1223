@@ -8,4 +8,4 @@
 
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tdm1223)](https://solved.ac/tdm1223)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdm1223&hide=TSQL,RPC,ShaderLab)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdm1223&langs_count=4&hide=TSQL,RPC,ShaderLab&layout=compact)
