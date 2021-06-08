@@ -10,5 +10,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdm1223&langs_count=4&hide=TSQL,RPC,ShaderLab&layout=compact)
 
-![tdm1223's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tdm1223)
+[![tdm1223's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tdm1223)](https://wakatime.com/@tdm1223)
 
