@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 😄 1 day 1 commit.
-- 🔭 I'm working as a **C++ client programmer**.
+- 🔭 I'm working as a **C++ Game Client Programmer**.
 - 🌱 I’m currently learning `C++`
 - 📫 How to reach me: tdm1223@naver.com
 
