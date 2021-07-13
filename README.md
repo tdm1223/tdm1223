@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 😄 1 day 1 commit.
 - 🔭 I'm working as a **C++ Game Client Programmer**.
-- 🌱 I’m currently learning `C++`
+- 🌱 I’m currently learning `C++`, `UnrealEngine4`
 - 📫 How to reach me: tdm1223@naver.com
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tdm1223&show_icons=true&theme=radical&hide=contribs,prs,stars&count_private=true)
