@@ -1,16 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=JEGYUN%20KANG&fontSize=70)
+
 - 😄 1 day 1 commit.
 - 🔭 I'm working as a **C++ Game Client Programmer**.
 - 🌱 I’m currently learning `C++`, `UnrealEngine4`
 
 <br>
 
-<p align="center">
-  <a> <img src="https://github-readme-stats.vercel.app/api?username=tdm1223&show_icons=true&theme=radical&count_private=true"/> </a>
-  <a href="https://wakatime.com/@tdm1223"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tdm1223"/> </a>
-  <a href="https://solved.ac/tdm1223"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tdm1223"/> </a>
-  <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm1223&langs_count=4&hide=TSQL,RPC,ShaderLab&layout=compact"/> </a>
-</p>
+<a> <img src="https://github-readme-stats.vercel.app/api?username=tdm1223&show_icons=true&theme=radical&count_private=true"/> </a>
+<a href="https://solved.ac/tdm1223"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tdm1223"/> </a>
+
+<a href="https://wakatime.com/@tdm1223"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tdm1223"/> </a>
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm1223&langs_count=4&hide=TSQL,RPC,ShaderLab&layout=compact"/> </a>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
