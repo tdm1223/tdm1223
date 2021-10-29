@@ -6,15 +6,10 @@
 
 <br>
 
-<p align="center">
-  <a> <img src="https://github-readme-stats.vercel.app/api?username=tdm1223&show_icons=true&theme=radical&count_private=true"/> </a>
-  <a href="https://solved.ac/tdm1223"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tdm1223"/> </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@tdm1223"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tdm1223"/> </a>
-  <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm1223&langs_count=4&hide=TSQL,RPC,ShaderLab&layout=compact"/> </a>
-</p>
+<a> <img src="https://github-readme-stats.vercel.app/api?username=tdm1223&show_icons=true&theme=radical&count_private=true" width="50%"/> </a>
+<a href="https://solved.ac/tdm1223"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tdm1223" width="40%"/> </a>
+<a href="https://wakatime.com/@tdm1223"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tdm1223" width="50%"/> </a>
+<a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm1223&langs_count=4&hide=TSQL,RPC,ShaderLab&layout=compact" width="40%"/> </a>
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
