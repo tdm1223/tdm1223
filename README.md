@@ -33,7 +33,7 @@
 
 <h3 align="center"> Me </h3>
 <p align="center">
-  <a href="https://tdm1223.github.io"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://tdm1223.github.io"/></a>&nbsp
+  <a href="https://jevlog.tistory.com/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://tdm1223.github.io"/></a>&nbsp
   <a href="https://www.linkedin.com/in/jegyun-kang-8091301b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp
   <a href="mailto:tdm1223@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=tdm1223@naver.com"/></a>
 </p>
